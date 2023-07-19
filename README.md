@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khiem</h1>
+<h1 align="center">Hi 👋, I'm Pham Duy Khiem</h1>
 <h3 align="center">A mobile developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem2911&label=Profile%20views&color=0e75b6&style=flat" alt="khiem2911" /> </p>
@@ -12,9 +12,7 @@
 - 💬 Ask me about **React Native,JS,Laravel,Android**
 
 - 📫 How to reach me **phamduykhiem113@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Admin/Downloads/cv%20mobile/CV-Ph%E1%BA%A1mDuyKhi%C3%AAm.pdf](file:///C:/Users/Admin/Downloads/cv%20mobile/CV-Ph%E1%BA%A1mDuyKhi%C3%AAm.pdf)
-
+- 
 - ⚡ Fun fact **Im think im good at sport and a little bit funny**
 
 <h3 align="left">Connect with me:</h3>
