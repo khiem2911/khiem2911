@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Duy Khiem</h1>
 <h3 align="center">A mobile developer from VietNam</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/khiem2911/khiem2911/assets/95374171/87fa1497-191e-4bfd-bee4-97a2b6c9ab11)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem2911&label=Profile%20views&color=0e75b6&style=flat" alt="khiem2911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khiem2911" alt="khiem2911" /></a> </p>
