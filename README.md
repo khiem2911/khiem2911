@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem2911&label=Profile%20views&color=0e75b6&style=flat" alt="khiem2911" /> </p>
  🌱 I’m currently learning React Native
 
- 💬 Ask me about **React Native,JS,Laravel,Android**
+ 💬 Ask me about **React Native,JS,Laravel,Android,React JS,TypeScript**
  
  📫 How to reach me **phamduykhiem113@gmail.com**
   
