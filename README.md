@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khiem2911" alt="khiem2911" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem2911&label=Profile%20views&color=0e75b6&style=flat" alt="khiem2911" /> </p>
  🌱 I’m currently learning React Native
 
