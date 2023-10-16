@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Duy Khiem</h1>
-<h3 align="center">A mobile developer from VietNam</h3>
+<h3 align="center">Web developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem2911&label=Profile%20views&color=0e75b6&style=flat" alt="khiem2911" /> </p>
 
